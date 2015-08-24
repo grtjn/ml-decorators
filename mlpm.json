@@ -1,0 +1,6 @@
+{
+  "name": "ml-decorators",
+  "version": "1.0.0",
+  "description": "Custom MarkLogic result decorator functions",
+  "repository": "https://github.com/grtjn/ml-decorators.git"
+}
